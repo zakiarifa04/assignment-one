@@ -1,0 +1,43 @@
+.container {
+    margin: 0 auto;
+    width: 1250px;
+  }
+  .main h1 {
+    color: #000;
+    font-size: 40px;
+    text-transform: uppercase;
+  }
+  .main h3 {
+    color: #000;
+    font-size: 30px;
+  }
+  .main p {
+    color: #000;
+    font-size: 20px;
+  }
+  .main-wrapper {
+    display: flex;
+  }
+  .card-part {
+    padding: 10px 15px;
+    border: 1px solid #000;
+    width: 374px;
+    cursor: pointer;
+  }
+  .card-img img {
+    height: 100px;
+    width: 100px;
+  }
+  .card-details h3 {
+    color: #000;
+    font-size: 25px;
+  }
+  .card-details p {
+    color: #000;
+    font-size: 15px;
+  }
+  .card-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
