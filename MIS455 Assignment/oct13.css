@@ -3,7 +3,7 @@
     width: 1250px;
   }
   .main h1 {
-    color: #000;
+    color: lightslategray;
     font-size: 40px;
     text-transform: uppercase;
   }
@@ -40,4 +40,31 @@
     display: flex;
     justify-content: space-between;
   }
+  .card-details{
+    font-family: 'Gabarito', sans-serif;
+    color: lightslategray;
+  }
+  .container{
+    font-family: 'Gabarito', sans-serif;
+  }
+  .main{
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(143, 158, 174);
+  } 
+  
+.grey-color{
+  color: lightslategray;
+}
+.main-dog{
+  margin-left: 50px;
+}
+.main-dog{
+  margin-left: 230px;
+  
+}
+.m-dog{
+  margin-right: 200px;
+  margin-left: 80px;
+}
+
   
